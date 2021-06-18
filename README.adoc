@@ -14,7 +14,7 @@ It is very easy to analyze a C/C++/Objective-C project with SonarCloud https://s
 
 . Create a `sonar-project.properties` file to store your configuration
 . Install SonarCloud extension for your organization:
-.. Open Organization settings (in the bottom left corner of organizations view)
+.. Open Organization settings (in the bottom left corner of organization view)
 .. Open "Extensions" page (in the General category)
 .. Press "Browse marketplace" and find "SonarCloud"
 .. Select your organization and click "Install"
